@@ -1,2 +1,2 @@
 # jellywarz
-<h1>plz work</h1>
+<p>JellyWarz contains the biggest collection of jelly games</p>
