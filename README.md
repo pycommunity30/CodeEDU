@@ -25,3 +25,11 @@ start programming python(built in IDE: ----><a href="https://pycommunity30.githu
 </body>
 </html>
 <h3>This site does not make money with ads and can only stay up if people donate, a donation would be apreciated</h3>
+<form action="https://www.paypal.com/donate" method="post" target="_top">
+  <input type="hidden" name="cmd" value="_donations" />
+  <input type="hidden" name="business" value="llamanado@gmail.com" />
+  <input type="hidden" name="currency_code" value="CAD" />
+  <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" border="0" name="submit" title="PayPal - The safer, easier way to pay online!"  alt="Donate with PayPal button" />
+  <img alt="" border="0" src="https://www.paypal.com/en_CA/i/scr/pixel.gif" width="3" height="3" />
+  </form>
+</html>
