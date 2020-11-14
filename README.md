@@ -13,3 +13,14 @@ start programming python:<a href="https://www.w3schools.com">
 
 </body>
 </html>
+<html>
+<body>
+
+<p>
+or HTML:<a href="https://www.w3schools.com">
+<img border="0" alt="W3Schools" src="htmlimage.png" width="100" height="100">
+</a>
+</p>
+
+</body>
+</html>
