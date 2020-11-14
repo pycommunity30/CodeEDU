@@ -6,7 +6,7 @@
 <body>
 
 <p>
-start programming python(built in IDE: ----><a href="https://pycommunity30.github.io/codeedupython/">
+start programming python(built in IDE: -----><a href="https://pycommunity30.github.io/codeedupython/">
 <img border="0" alt="W3Schools" src="pythonimage.jpg" width="100" height="100">
 </a>
 </p>
