@@ -8,19 +8,19 @@
 <h3> thanks to freedns.org for giving me this free subdomain, register a free Domain Below </h3>
 <center>
   
- <form target=_new action=https://freedns.afraid.org/subdomain/edit.php>
-<table style="border-style=solid;border-width=1;border-color=black;" width=468 height=60 bgcolor=cccccc><tr><td align=middle>
+  <form target=_new action=https://freedns.afraid.org/subdomain/edit.php>
+  <table style="border-style=solid;border-width=1;border-color=black;" width=468 height=60 bgcolor=cccccc><tr><td align=middle>
 
-<table border=0 cellpadding=2 cellspacing=0>
-<tr>
-  <td align=middle colspan=3>
-    <div style="font-family: Verdana, Helvetica;font-size: 13px;color: black;hover: orange;"><a style="font-family: Verdana, Helvetica;font-size: 13px;color: black;hover: orange;" target=_new href=https://freedns.afraid.org/>Free DNS</a> provides easy shared DNS hosting &amp; URL forwarding
-  </div>
-  </td>
-</tr>
+  <table border=0 cellpadding=2 cellspacing=0>
+  <tr>
+    <td align=middle colspan=3>
+      <div style="font-family: Verdana, Helvetica;font-size: 13px;color: black;hover: orange;"><a style="font-family: Verdana, Helvetica;font-size: 13px;color: black;hover:              orange;" target=_new href=https://freedns.afraid.org/>Free DNS</a> provides easy shared DNS hosting &amp; URL forwarding
+    </div>
+   </td>
+  </tr>
 
 <tr>
-<td align=middle valign=middle><input type=text size=15 name=subdomain value=yourname></td>
+  <td align=middle valign=middle><input type=text size=15 name=subdomain value=yourname></td>
 <td align=middle valign=middle><select name=edit_domain_id>
 <option value=2>strangled.net
 <option value=29>mooo.com
@@ -31,7 +31,9 @@
 </tr>
 </table>
 
-</td></tr></table>
+</td>
+</tr>
+</table>
 <input type=hidden name=web_panel value=1>
 <input type=hidden name=ref value=3469449>
 </form>
