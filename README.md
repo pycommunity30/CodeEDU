@@ -1,8 +1,11 @@
 # jellywarz
-<p>JellyWarz contains the biggest collection of jelly games</p>
-<h3>PythonSpamBot</h3>
-<p>this spambot is unique as it only spams what is inside your clipboard</p>
-<a href="https://github.com/pycommunity30/pycommunity/blob/master/cool%20-%20Copy.py">.py file Download</a>
+<html>
+  <p>JellyWarz contains the biggest collection of jelly games</p>
+  <h3>PythonSpamBot</h3>
+  <p>this spambot is unique as it only spams what is inside your clipboard</p>
+  <a href="https://github.com/pycommunity30/pycommunity/blob/master/cool%20-%20Copy.py">.py file Download</a>
+</html>
+<html>
 <center>
 <form target=_new action=https://freedns.afraid.org/subdomain/edit.php>
 <table style="border-style=solid;border-width=1;border-color=black;" width=468 height=60 bgcolor=cccccc><tr><td align=middle>
@@ -27,3 +30,4 @@
 <input type=hidden name=ref value=3469449>
 </form>
 </center>
+</html>
