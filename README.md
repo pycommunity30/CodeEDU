@@ -6,7 +6,7 @@
 <body>
 
 <p>
-start programming python or html:<a href="https://www.w3schools.com">
+start programming python:<a href="https://www.w3schools.com">
 <img border="0" alt="W3Schools" src="pythonimage.jpg" width="100" height="100">
 </a>
 </p>
