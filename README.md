@@ -1,4 +1,4 @@
-# jellywarz
+# CodeEDU
 <html>
   <p>JellyWarz contains the biggest collection of jelly games</p>
   <h3>PythonSpamBot</h3>
