@@ -1,5 +1,9 @@
 # CodeEDU
 <html>
+<body background="edureka.png">
+</body>
+</html>
+<html>
   <h3>CodeEDU is a website built for fast python and html learning, no sign up needed and its free! no downloads requiered, just start programming in your browser</h3>
 </html>
 <html>
