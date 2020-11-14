@@ -24,4 +24,4 @@ start programming python(built in IDE: ----><a href="https://pycommunity30.githu
 
 </body>
 </html>
-<h3>This site does not make money with ads and can only stay up if people donate a donathion would be apreciated</h3>
+<h3>This site does not make money with ads and can only stay up if people donate, a donation would be apreciated</h3>
