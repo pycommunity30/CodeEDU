@@ -5,6 +5,7 @@
   <p>this spambot is unique as it only spams what is inside your clipboard</p>
   <a href="https://github.com/pycommunity30/pycommunity/blob/master/cool%20-%20Copy.py">.py file Download</a>
 </html>
+<h3> thanks to freedns.org for giving me this free subdomain, register a free Domain Below </h3>
 <center>
 <form target=_new action=https://freedns.afraid.org/subdomain/edit.php>
 <table style="border-style=solid;border-width=1;border-color=black;" width=468 height=60 bgcolor=cccccc><tr><td align=middle>
