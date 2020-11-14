@@ -1,6 +1,6 @@
 # CodeEDU
 <html>
-<body background="abstract_smooth_wave_background_vector_grapihic_art_569579.jpg">
+<body background="depositphotos_52533505-stock-illustration-neutral-background.jpg">
 </body>
 </html>
 <html>
