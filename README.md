@@ -37,7 +37,7 @@ start programming scratch -----------------><a href="https://pycommunity30.githu
 
 </body>
 </html>
-<h3>This site does not make money with ads and can only stay up if people donate, a donation would be apreciated</h3>
+<h3>This site does not make money with ads, a donation would be apreciated</h3>
 <form action="https://www.paypal.com/donate" method="post" target="_top">
   <input type="hidden" name="cmd" value="_donations" />
   <input type="hidden" name="business" value="llamanado@gmail.com" />
