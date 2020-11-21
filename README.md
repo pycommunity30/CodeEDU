@@ -1,9 +1,5 @@
 # bearEDU
 <html>
-<body background="mobile_wallpaper_by_maria_shanina-min.png">
-</body>
-</html>
-<html>
   <h3>bear is a website built for fast python, scratch and html learning, and hardware learning too! no sign up needed and its free! no downloads required, just start programming in your browser</h3>
 </html>
 
