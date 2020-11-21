@@ -1,10 +1,10 @@
-# CodeEDU
+# bearEDU
 <html>
 <body background="depositphotos_52533505-stock-illustration-neutral-background.jpg">
 </body>
 </html>
 <html>
-  <h3>CodeEDU is a website built for fast python, scratch and html learning, no sign up needed and its free! no downloads required, just start programming in your browser</h3>
+  <h3>bear is a website built for fast python, scratch and html learning, and hardware learning too! no sign up needed and its free! no downloads required, just start programming in your browser</h3>
 </html>
 
 <html>
