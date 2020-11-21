@@ -34,9 +34,12 @@ start programming scratch -----------------><a href="https://pycommunity30.githu
 <img border="0" alt="W3Schools" src="htmlimage.png" width="100" height="100">
 </a>
 </p>
-
 </body>
 </html>
+<h1>Make Fun Hardware Projects!</h1>
+<iframe width="956" height="538" src="https://www.youtube.com/embed/Ci_MoEYsrx0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="956" height="538" src="https://www.youtube.com/embed/TXpTyGEQxG4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="956" height="538" src="https://www.youtube.com/embed/iqiBcS4kRxg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <h3>This site does not make money with ads, a donation would be apreciated</h3>
 <form action="https://www.paypal.com/donate" method="post" target="_top">
   <input type="hidden" name="cmd" value="_donations" />
