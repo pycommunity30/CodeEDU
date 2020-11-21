@@ -45,3 +45,13 @@ start programming scratch -----------------><a href="https://pycommunity30.githu
   <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" border="0" name="submit" title="PayPal - The safer, easier way to pay online!"  alt="Donate with PayPal button" />
   <img alt="" border="0" src="https://www.paypal.com/en_CA/i/scr/pixel.gif" width="3" height="3" />
   </form>
+  <h3>or start doating for free with the following affiliate link!</h3>
+<html>
+<body>
+<p>
+-----------------><a href="https://track.fiverr.com/visit/?bta=176920&brand=fiverrhybrid">
+<img border="0" alt="W3Schools" src="0bdbd10ab2fa7096299f7c78e1ac55f5.png" width="100" height="100">
+</a>
+</p>
+</body>
+</html>
