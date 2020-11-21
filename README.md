@@ -1,6 +1,6 @@
 # bearEDU
 <html>
-<body background="depositphotos_52533505-stock-illustration-neutral-background.jpg">
+<body background="mobile_wallpaper_by_maria_shanina-min.png">
 </body>
 </html>
 <html>
