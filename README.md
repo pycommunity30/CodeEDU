@@ -45,7 +45,7 @@ start programming scratch -----------------><a href="https://pycommunity30.githu
   <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" border="0" name="submit" title="PayPal - The safer, easier way to pay online!"  alt="Donate with PayPal button" />
   <img alt="" border="0" src="https://www.paypal.com/en_CA/i/scr/pixel.gif" width="3" height="3" />
   </form>
-  <h3>or start doating for free with the following affiliate link!</h3>
+  <h3>or start donating for free with the following affiliate link!</h3>
 <html>
 <body>
 <p>
