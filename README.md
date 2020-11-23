@@ -45,7 +45,3 @@ start programming scratch -----------------><a href="https://pycommunity30.githu
   <img alt="" border="0" src="https://www.paypal.com/en_CA/i/scr/pixel.gif" width="3" height="3" />
   </form>
   <h3>or start donating for free with the following affiliate link!</h3>
-<html>
-<a target="_blank" href="https://www.amazon.ca/b?_encoding=UTF8&tag=bearedu-20&linkCode=ur2&linkId=7252a73a452714b8cfe591a39c314b3f&camp=15121&creative=330641&node=3315391">games4kids</a><img src="//ir-ca.amazon-adsystem.com/e/ir?t=bearedu-20&l=ur2&o=15" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
-</html>
-<a href="https://track.fiverr.com/visit/?bta=176920&nci=8126" Target="_Top"><img border="0" src="https://fiverr.ck-cdn.com/tn/serve/?cid=9457315"  width="250" height="250"></a>
