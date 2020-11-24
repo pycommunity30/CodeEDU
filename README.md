@@ -36,6 +36,6 @@ start programming scratch(page under construction) -----------------><a href="ht
 </body>
 </html>
 <h1>Make Fun Hardware Projects!</h1>
-<iframe width="956" height="538" src="https://www.youtube.com/embed/Ci_MoEYsrx0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<iframe width="956" height="538" src="https://www.youtube.com/embed/TXpTyGEQxG4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<iframe width="956" height="538" src="https://www.youtube.com/embed/iqiBcS4kRxg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="500" height="200" src="https://www.youtube.com/embed/Ci_MoEYsrx0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="500" height="200" src="https://www.youtube.com/embed/TXpTyGEQxG4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="500" height="200" src="https://www.youtube.com/embed/iqiBcS4kRxg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
