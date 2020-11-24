@@ -1,9 +1,12 @@
-# bearEDU
+# pycommunity30.github.io
 <html>
-  <h3>bear is a website built for fast python, scratch and html learning, and hardware learning too! no sign up needed and its free! no downloads required, just start programming in your browser</h3>
+  <h3>bear is a website built for fast python(sorry for very cringe username im hoping to make enough money for a proper domain), scratch and html learning, and hardware learning too! no sign up needed and its free! no downloads required, just start programming in your browser</h3>
 </html>
-
 <html>
+  <head>
+    <script data-ad-client="ca-pub-9568406816158293" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+  </head>
+</html>
 <body>
 <p>
 start programming python(built in IDE: ----><a href="https://pycommunity30.github.io/codeedupython/">
