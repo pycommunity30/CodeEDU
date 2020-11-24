@@ -19,7 +19,7 @@ start programming python(built in IDE: ----><a href="https://pycommunity30.githu
 <html>
 <body>
 <p>
-start programming scratch -----------------><a href="https://pycommunity30.github.io/codeedupython/">
+start programming scratch(page under construction) -----------------><a href="https://pycommunity30.github.io/codeedupython/">
 <img border="0" alt="W3Schools" src="0bdbd10ab2fa7096299f7c78e1ac55f5.png" width="100" height="100">
 </a>
 </p>
@@ -29,7 +29,7 @@ start programming scratch -----------------><a href="https://pycommunity30.githu
 <html>
 <body>
 <p>
- start programming HTML(built in IDE): -----> <a href="https://www.w3schools.com">
+ start programming HTML(built in IDE):(page under construction) -----> <a href="https://www.w3schools.com">
 <img border="0" alt="W3Schools" src="htmlimage.png" width="100" height="100">
 </a>
 </p>
